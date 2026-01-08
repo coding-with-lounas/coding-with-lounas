@@ -22,5 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coding-with-lounas&show_icons=true&locale=en" alt="coding-with-lounas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-with-lounas&" alt="coding-with-lounas" /></p>
 
