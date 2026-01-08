@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-lime-delta-82.vercel.app/](https://my-portfolio-lime-delta-82.vercel.app/)
 
-- 💬 Ask me about **react , django, machine learning**
+- 💬 Ask me about **web dev project and machine learning project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
